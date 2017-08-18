@@ -20,5 +20,9 @@
   },
   "dependencies": {
     "shortid": "^2.2.8"
-  }
+  },
+  "repository" : { 
+   "type" : "git",
+   "url" : "https://github.com/check/check.git"
+ }
 }
